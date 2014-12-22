@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A briefe and true report of the new found land of Virginia of the commodities and of the nature and 
+TO THE RIGHT WORTHIE AND HONOVRABLE, SIR VVALTER RALEGH, KNIGHT, SENESCHAL OF THE DVCHIES OF CornewaTO THE ADVENTVRERS, FAVORERS, AND VVELVVILLERS OF THE ENTERPRISE FOR THE INHABITTING and planting in
 #####Back#####
-A briefe and true report of the new found land of Virginia of the commodities and of the nature and 
+A TABLE OF THE PRINCIPALL THINGES THAT are contained in this Historie, after the order of the Alphab
+1. Faults escaped in the impression. the first nombre signiffie the page, the second the Linne.
+AT FRANCKFORT, INPRINTED BY IHON WEchel, at Theodore de Bry, owne coast and chardges.MDXC.Americae pars, Nunc Virginia dicta, primum ab Anglis inuenta. sumtibus Dn Walteri Raleigh, Equestris
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
